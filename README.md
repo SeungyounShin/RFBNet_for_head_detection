@@ -6,4 +6,6 @@ RFBNet for head detection (from https://github.com/ruinmessi/RFBNet)
   + loss
     + focal loss
     + smooth l1
+   + matching strategy
+    + pos matching
   
