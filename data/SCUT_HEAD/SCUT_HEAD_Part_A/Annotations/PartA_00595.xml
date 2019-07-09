@@ -1,0 +1,14 @@
+<annotation>
+	<folder>500-749</folder>
+	<filename>595.jpg</filename>
+	<path>/home/shirley/biaozhu/labelImg-master/labelImg-master/500-749/595.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1022</width>
+		<height>590</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

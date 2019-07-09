@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1400-1499</folder>
+	<filename>01446.jpg</filename>
+	<path>C:\Users\Administrator\Desktop\1400-1499\1400-1499\01446.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1271</width>
+		<height>725</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>979</xmin>
+			<ymin>267</ymin>
+			<xmax>1021</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>

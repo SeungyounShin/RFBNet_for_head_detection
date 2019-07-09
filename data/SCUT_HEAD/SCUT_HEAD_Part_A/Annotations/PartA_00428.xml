@@ -1,0 +1,26 @@
+<annotation>
+	<folder>250-499</folder>
+	<filename>428.jpg</filename>
+	<path>/home/pengdezhi/数据标注/250-499/428.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>917</width>
+		<height>524</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+    <name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>804</xmin>
+			<ymin>79</ymin>
+			<xmax>818</xmax>
+			<ymax>95</ymax>
+		</bndbox>
+	</object>
+</annotation>

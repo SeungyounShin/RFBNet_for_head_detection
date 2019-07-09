@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>0-249</folder>
+  <filename>111</filename>
+  <path>/home/szk/data/0-249/111.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1269</width>
+    <height>721</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1016</xmin>
+      <ymin>263</ymin>
+      <xmax>1052</xmax>
+      <ymax>318</ymax>
+    </bndbox>
+  </object>
+</annotation>

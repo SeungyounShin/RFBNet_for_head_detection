@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>待标注图片</folder>
+	<filename>01057.jpg</filename>
+	<path>C:\Users\Administrator\Desktop\labellmg\图片标注\待标注图片\01057.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1243</width>
+		<height>714</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>522</xmin>
+			<ymin>151</ymin>
+			<xmax>549</xmax>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+</annotation>
